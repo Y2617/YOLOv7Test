@@ -1,0 +1,10 @@
+train: 
+- F:\program\YOLO\yolov7-main\yolov7-main\FaceMaskDataset\images\train
+val:
+- F:\program\YOLO\yolov7-main\yolov7-main\FaceMaskDataset\images\val
+
+# number of classes
+nc: 2
+
+# class names
+names: ['mask','no_mask']
